@@ -10,6 +10,7 @@ def key_for_min_value(name_hash)
     if ammount < value
        ammount = value
     end
-    }
+    
     return name
+  }
 end
